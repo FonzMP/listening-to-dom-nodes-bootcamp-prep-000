@@ -1,6 +1,6 @@
 const lis = document.querySelectorAll('div');
 const buttonCreation = document.createElement('button');
-buttonCreation.textContent('delete');
+buttonCreation.nodeValue('delete');
 
 lis.appendChild(buttonCreation);
 console.log(lis);
