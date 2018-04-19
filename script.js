@@ -1,5 +1,3 @@
-let lis = document.querySelector('div')[1];
+let label = document.querySelector('label');
 
-// lis.style.backgroundColor = 'yellow';
-
-console.log(lis);
+console.log(label);
