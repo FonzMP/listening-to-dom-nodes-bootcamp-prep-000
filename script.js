@@ -1,3 +1,3 @@
 const lis = document.querySelectorAll('div');
 
-console.log(lis);
+console.log(lis.textContent);
