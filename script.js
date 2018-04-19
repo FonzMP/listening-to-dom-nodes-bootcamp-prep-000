@@ -1,5 +1,5 @@
 const lis = document.querySelectorAll('div');
-const newDivCreation = document.createElement('button');
+const newDivCreation = document.createElement('div');
 buttonCreation.nodeValue('delete');
 
 lis.appendChild(buttonCreation);
